@@ -25,7 +25,7 @@ latex_elements = {
     'papersize': 'a4paper',
     'classoptions': ',openany,oneside',
     'babel': '\\usepackage[english]{babel}',
-    'preamble': '\usepackage{microtype}',
+    'preamble': '\\usepackage{microtype}',
 }
 
 latex_documents = [
